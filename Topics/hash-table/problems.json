@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-23T10:25:44.969Z",
+  "updatedAt": "2026-11-23T10:29:54.435Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0217-contains-duplicate/0217-contains-duplicate.java",
           "sha": "781b7c046846fe8f530f15ff4a79e5b574d757b5",
           "lastSyncedAt": "2026-11-23T10:25:44.969Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "460",
+      "title": "LFU Cache",
+      "slug": "lfu-cache",
+      "problemName": "0460-lfu-cache",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lfu-cache/",
+      "folderPath": "0460-lfu-cache/",
+      "readmePath": "0460-lfu-cache/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0460-lfu-cache.java",
+          "path": "0460-lfu-cache/0460-lfu-cache.java",
+          "sha": "c3c8975850306eee3e1e4bfbc7cf062dcba9ae1f",
+          "lastSyncedAt": "2026-11-23T10:29:54.435Z"
         }
       ]
     }
