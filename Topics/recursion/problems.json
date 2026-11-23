@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-23T10:41:14.509Z",
+  "updatedAt": "2026-11-23T10:43:25.743Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "50a6f079bc9163633341d11092531c1b09b5dc78",
           "lastSyncedAt": "2026-11-23T10:38:37.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2094",
+      "title": "Finding 3-Digit Even Numbers",
+      "slug": "finding-3-digit-even-numbers",
+      "problemName": "2094-finding-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+      "folderPath": "2094-finding-3-digit-even-numbers/",
+      "readmePath": "2094-finding-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2094-finding-3-digit-even-numbers.py",
+          "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.py",
+          "sha": "21e8a74247b990b6d0bc06647c25384ac36245ba",
+          "lastSyncedAt": "2026-11-23T10:43:25.743Z"
         }
       ]
     }
