@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-23T13:19:35.642Z",
+  "updatedAt": "2026-11-23T13:19:42.955Z",
   "problems": [
     {
       "frontendId": "5",
@@ -303,7 +303,7 @@
           "filename": "0189-rotate-array.java",
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "add11fbb812ac219781f767a0ba8235d32474a5f",
-          "lastSyncedAt": "2026-11-23T11:59:18.127Z"
+          "lastSyncedAt": "2026-11-23T13:19:42.955Z"
         }
       ]
     },
