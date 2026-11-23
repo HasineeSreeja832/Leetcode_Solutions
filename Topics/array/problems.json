@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:30:51.675Z",
+  "updatedAt": "2026-11-23T10:31:02.741Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.py",
           "sha": "690a6caeed0e19218a2ebeda5cc9a4941c717d98",
           "lastSyncedAt": "2026-11-23T10:25:06.211Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0042-trapping-rain-water.java",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
+          "sha": "0206e55605befae95be2a839ff80513c4b6c4edd",
+          "lastSyncedAt": "2026-11-23T10:31:02.741Z"
         }
       ]
     },
