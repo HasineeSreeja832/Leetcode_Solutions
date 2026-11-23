@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "matrix",
+    "name": "Matrix",
+    "tagId": "61053"
+  },
+  "updatedAt": "2026-11-23T10:27:02.275Z",
+  "problems": [
+    {
+      "frontendId": "1277",
+      "title": "Count Square Submatrices with All Ones",
+      "slug": "count-square-submatrices-with-all-ones",
+      "problemName": "1277-count-square-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+      "folderPath": "1277-count-square-submatrices-with-all-ones/",
+      "readmePath": "1277-count-square-submatrices-with-all-ones/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1277-count-square-submatrices-with-all-ones.java",
+          "path": "1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.java",
+          "sha": "5298fa309c5f4ac81d27b781e9401ee1db8cbcc7",
+          "lastSyncedAt": "2026-11-23T10:27:02.275Z"
+        }
+      ]
+    }
+  ]
+}
