@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-23T10:31:43.470Z",
+  "updatedAt": "2026-11-23T10:31:56.780Z",
   "problems": [
     {
       "frontendId": "42",
@@ -84,6 +84,26 @@
           "path": "0155-min-stack/0155-min-stack.java",
           "sha": "a38f0ebd8d6e8c8fc013dcea324925ce45b9991a",
           "lastSyncedAt": "2026-11-23T10:31:43.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0402-remove-k-digits.java",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.java",
+          "sha": "89893498364f7ecfe9dd1068ecda078c92d7196a",
+          "lastSyncedAt": "2026-11-23T10:31:56.780Z"
         }
       ]
     },
