@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-23T13:17:15.394Z",
+  "updatedAt": "2026-11-23T13:17:38.679Z",
   "problems": [
     {
       "frontendId": "4",
@@ -183,7 +183,7 @@
           "filename": "0240-search-a-2d-matrix-ii.java",
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.java",
           "sha": "a1d72f4c2c0328b95ee04cd5a1df02e453c29511",
-          "lastSyncedAt": "2026-11-23T11:58:12.250Z"
+          "lastSyncedAt": "2026-11-23T13:17:38.679Z"
         }
       ]
     },
