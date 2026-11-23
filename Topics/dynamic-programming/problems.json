@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T11:23:15.817Z",
+  "updatedAt": "2026-11-23T11:23:23.041Z",
   "problems": [
     {
       "frontendId": "5",
@@ -183,7 +183,7 @@
           "filename": "0120-triangle.java",
           "path": "0120-triangle/0120-triangle.java",
           "sha": "cc1b7ed84a84a27b0c9478060147b6ff3889b605",
-          "lastSyncedAt": "2026-11-23T10:50:45.419Z"
+          "lastSyncedAt": "2026-11-23T11:23:23.041Z"
         }
       ]
     },
