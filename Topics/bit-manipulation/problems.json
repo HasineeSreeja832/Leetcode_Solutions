@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-23T10:36:55.999Z",
+  "updatedAt": "2026-11-23T10:43:10.287Z",
   "problems": [
     {
       "frontendId": "136",
@@ -24,6 +24,26 @@
           "path": "0136-single-number/0136-single-number.java",
           "sha": "b22a3abf5acb5aecc90d889eb4cb2b1aa0ed1138",
           "lastSyncedAt": "2026-11-23T10:36:55.999Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "898",
+      "title": "Bitwise ORs of Subarrays",
+      "slug": "bitwise-ors-of-subarrays",
+      "problemName": "0898-bitwise-ors-of-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-ors-of-subarrays/",
+      "folderPath": "0898-bitwise-ors-of-subarrays/",
+      "readmePath": "0898-bitwise-ors-of-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0898-bitwise-ors-of-subarrays.py",
+          "path": "0898-bitwise-ors-of-subarrays/0898-bitwise-ors-of-subarrays.py",
+          "sha": "a51184a25084d4367c7ca9c5163dc172579806b2",
+          "lastSyncedAt": "2026-11-23T10:43:10.287Z"
         }
       ]
     }
