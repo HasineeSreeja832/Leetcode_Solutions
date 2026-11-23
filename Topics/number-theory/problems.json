@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-23T13:06:35.713Z",
+  "updatedAt": "2026-11-23T13:33:19.129Z",
   "problems": [
     {
       "frontendId": "204",
@@ -23,7 +23,7 @@
           "filename": "0204-count-primes.java",
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "f6e1f16f17dcc618def0b3614b554e9fb4316962",
-          "lastSyncedAt": "2026-11-23T13:06:35.713Z"
+          "lastSyncedAt": "2026-11-23T13:33:19.129Z"
         }
       ]
     }
