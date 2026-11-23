@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:20:58.121Z",
+  "updatedAt": "2026-11-23T13:21:06.333Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1063,7 +1063,7 @@
           "filename": "1283-find-the-smallest-divisor-given-a-threshold.java",
           "path": "1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.java",
           "sha": "7eea8c46a8307533deb5942f824d5133ada01d08",
-          "lastSyncedAt": "2026-11-23T12:00:10.645Z"
+          "lastSyncedAt": "2026-11-23T13:21:06.333Z"
         }
       ]
     },
