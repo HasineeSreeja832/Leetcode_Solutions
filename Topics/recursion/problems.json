@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-23T10:38:37.566Z",
+  "updatedAt": "2026-11-23T10:41:14.509Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "4bec199aa3d1d563d52771991e90e09e8eeeb1ea",
           "lastSyncedAt": "2026-11-23T10:24:49.179Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0021-merge-two-sorted-lists.java",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
+          "sha": "ef74e72691b97e3b919433c4e5ad5ea0b6489acf",
+          "lastSyncedAt": "2026-11-23T10:41:14.509Z"
         }
       ]
     },
