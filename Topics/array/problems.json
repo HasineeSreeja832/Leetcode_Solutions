@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:42:35.520Z",
+  "updatedAt": "2026-11-23T10:42:46.511Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "dde817a4864ce66cd8c2313275381ead68b5d4d1",
           "lastSyncedAt": "2026-11-23T10:36:22.142Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2561",
+      "title": "Rearranging Fruits",
+      "slug": "rearranging-fruits",
+      "problemName": "2561-rearranging-fruits",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/rearranging-fruits/",
+      "folderPath": "2561-rearranging-fruits/",
+      "readmePath": "2561-rearranging-fruits/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2561-rearranging-fruits.py",
+          "path": "2561-rearranging-fruits/2561-rearranging-fruits.py",
+          "sha": "5022225c0d7776780abf3998351ca9e3be64abe0",
+          "lastSyncedAt": "2026-11-23T10:42:46.511Z"
         }
       ]
     },
