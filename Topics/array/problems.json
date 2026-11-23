@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:39:58.875Z",
+  "updatedAt": "2026-11-23T10:40:23.294Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "0206e55605befae95be2a839ff80513c4b6c4edd",
           "lastSyncedAt": "2026-11-23T10:31:02.741Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "60d8d558664e8da48e4b32d666bbdc0bfd043ee0",
+          "lastSyncedAt": "2026-11-23T10:40:23.294Z"
         }
       ]
     },
