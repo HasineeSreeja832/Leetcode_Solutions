@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-23T10:34:02.346Z",
+  "updatedAt": "2026-11-23T10:35:14.541Z",
   "problems": [
     {
       "frontendId": "28",
@@ -84,6 +84,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
           "sha": "449628a39c8d1482ca7d63d97813492f7f6c90c5",
           "lastSyncedAt": "2026-11-23T10:33:32.182Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "problemName": "0151-reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "folderPath": "0151-reverse-words-in-a-string/",
+      "readmePath": "0151-reverse-words-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0151-reverse-words-in-a-string.java",
+          "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
+          "sha": "e2ddaef6e382c3e99a8ae20dba58a2a0bc1eb544",
+          "lastSyncedAt": "2026-11-23T10:35:14.541Z"
         }
       ]
     },
