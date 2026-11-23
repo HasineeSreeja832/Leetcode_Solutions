@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:43:10.287Z",
+  "updatedAt": "2026-11-23T10:43:25.743Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.java",
           "sha": "b16e0ef5450bd100f73f09e5b96a10335edf3ad6",
           "lastSyncedAt": "2026-11-23T10:35:31.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2094",
+      "title": "Finding 3-Digit Even Numbers",
+      "slug": "finding-3-digit-even-numbers",
+      "problemName": "2094-finding-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+      "folderPath": "2094-finding-3-digit-even-numbers/",
+      "readmePath": "2094-finding-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2094-finding-3-digit-even-numbers.py",
+          "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.py",
+          "sha": "21e8a74247b990b6d0bc06647c25384ac36245ba",
+          "lastSyncedAt": "2026-11-23T10:43:25.743Z"
         }
       ]
     },
