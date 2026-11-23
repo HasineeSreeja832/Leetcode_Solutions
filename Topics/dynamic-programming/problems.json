@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T10:27:20.409Z",
+  "updatedAt": "2026-11-23T10:27:26.846Z",
   "problems": [
     {
       "frontendId": "53",
@@ -24,6 +24,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "a270f06e827030677eab9c8f6d67eebfbfb9d606",
           "lastSyncedAt": "2026-11-23T10:25:25.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "problemName": "0063-unique-paths-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+      "folderPath": "0063-unique-paths-ii/",
+      "readmePath": "0063-unique-paths-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0063-unique-paths-ii.java",
+          "path": "0063-unique-paths-ii/0063-unique-paths-ii.java",
+          "sha": "b8c422506440cd3f84e690c804f985092c947580",
+          "lastSyncedAt": "2026-11-23T10:27:26.846Z"
         }
       ]
     },
