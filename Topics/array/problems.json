@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:30:38.383Z",
+  "updatedAt": "2026-11-23T10:30:51.675Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0063-unique-paths-ii/0063-unique-paths-ii.java",
           "sha": "b8c422506440cd3f84e690c804f985092c947580",
           "lastSyncedAt": "2026-11-23T10:27:26.846Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "0084-largest-rectangle-in-histogram/",
+      "readmePath": "0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0084-largest-rectangle-in-histogram.java",
+          "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.java",
+          "sha": "a473854aac53c169a2b015665ec8c69cf821ae3a",
+          "lastSyncedAt": "2026-11-23T10:30:51.675Z"
         }
       ]
     },
