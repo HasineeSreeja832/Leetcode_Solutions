@@ -5,7 +5,7 @@
     "name": "0-1 Knapsack",
     "tagId": "88229"
   },
-  "updatedAt": "2026-11-23T13:05:03.547Z",
+  "updatedAt": "2026-11-23T13:05:19.357Z",
   "problems": [
     {
       "frontendId": "416",
@@ -23,7 +23,7 @@
           "filename": "0416-partition-equal-subset-sum.java",
           "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.java",
           "sha": "da6207ae55038ed8719adb70640adc8cd8965e92",
-          "lastSyncedAt": "2026-11-23T11:51:15.326Z"
+          "lastSyncedAt": "2026-11-23T13:05:19.357Z"
         }
       ]
     },
