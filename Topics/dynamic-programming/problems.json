@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T11:21:23.045Z",
+  "updatedAt": "2026-11-23T11:21:30.861Z",
   "problems": [
     {
       "frontendId": "5",
@@ -63,7 +63,7 @@
           "filename": "0053-maximum-subarray.java",
           "path": "0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "a270f06e827030677eab9c8f6d67eebfbfb9d606",
-          "lastSyncedAt": "2026-11-23T10:49:17.139Z"
+          "lastSyncedAt": "2026-11-23T11:21:30.861Z"
         }
       ]
     },
