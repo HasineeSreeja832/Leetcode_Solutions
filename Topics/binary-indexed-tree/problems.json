@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-indexed-tree",
+    "name": "Binary Indexed Tree",
+    "tagId": "28"
+  },
+  "updatedAt": "2026-11-23T10:26:07.659Z",
+  "problems": [
+    {
+      "frontendId": "673",
+      "title": "Number of Longest Increasing Subsequence",
+      "slug": "number-of-longest-increasing-subsequence",
+      "problemName": "0673-number-of-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+      "folderPath": "0673-number-of-longest-increasing-subsequence/",
+      "readmePath": "0673-number-of-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0673-number-of-longest-increasing-subsequence.java",
+          "path": "0673-number-of-longest-increasing-subsequence/0673-number-of-longest-increasing-subsequence.java",
+          "sha": "e87c31871114f9e1481a8393d5783ac09d4f3d67",
+          "lastSyncedAt": "2026-11-23T10:26:07.659Z"
+        }
+      ]
+    }
+  ]
+}
