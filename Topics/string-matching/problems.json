@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-11-23T10:51:49.700Z",
+  "updatedAt": "2026-11-23T10:52:00.610Z",
   "problems": [
     {
       "frontendId": "28",
@@ -43,7 +43,7 @@
           "filename": "0214-shortest-palindrome.java",
           "path": "0214-shortest-palindrome/0214-shortest-palindrome.java",
           "sha": "484f012723bb090c05eb37a3946eeca17ea7a673",
-          "lastSyncedAt": "2026-11-23T10:29:17.512Z"
+          "lastSyncedAt": "2026-11-23T10:52:00.610Z"
         }
       ]
     },
