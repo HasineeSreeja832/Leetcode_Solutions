@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-23T10:29:54.435Z",
+  "updatedAt": "2026-11-23T10:30:11.661Z",
   "problems": [
+    {
+      "frontendId": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "problemName": "0146-lru-cache",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+      "folderPath": "0146-lru-cache/",
+      "readmePath": "0146-lru-cache/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0146-lru-cache.java",
+          "path": "0146-lru-cache/0146-lru-cache.java",
+          "sha": "0309e6d175f867a7c7d7f91ba48c7607272d091a",
+          "lastSyncedAt": "2026-11-23T10:30:11.661Z"
+        }
+      ]
+    },
     {
       "frontendId": "460",
       "title": "LFU Cache",
