@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:34:33.999Z",
+  "updatedAt": "2026-11-23T10:34:42.858Z",
   "problems": [
     {
       "frontendId": "13",
@@ -64,6 +64,26 @@
           "path": "0038-count-and-say/0038-count-and-say.java",
           "sha": "43bcd758bf0e2417aebd73442b84d6b65bffa5f2",
           "lastSyncedAt": "2026-11-23T10:29:35.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "0205-isomorphic-strings/",
+      "readmePath": "0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0205-isomorphic-strings.java",
+          "path": "0205-isomorphic-strings/0205-isomorphic-strings.java",
+          "sha": "32eb62617a8eb39f10805fa9c6d4ba4cca30b086",
+          "lastSyncedAt": "2026-11-23T10:34:42.858Z"
         }
       ]
     },
