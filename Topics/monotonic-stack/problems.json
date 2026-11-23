@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-23T10:31:02.741Z",
+  "updatedAt": "2026-11-23T10:31:56.780Z",
   "problems": [
     {
       "frontendId": "42",
@@ -64,6 +64,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.java",
           "sha": "b96833f00b04830a99a631324b630b48f4980edb",
           "lastSyncedAt": "2026-11-23T10:30:38.383Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0402-remove-k-digits.java",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.java",
+          "sha": "89893498364f7ecfe9dd1068ecda078c92d7196a",
+          "lastSyncedAt": "2026-11-23T10:31:56.780Z"
         }
       ]
     },
