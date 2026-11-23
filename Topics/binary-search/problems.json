@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-23T10:38:30.725Z",
+  "updatedAt": "2026-11-23T10:38:50.370Z",
   "problems": [
     {
       "frontendId": "74",
@@ -84,6 +84,26 @@
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "75874bae38c101e6e8fa2fc9f69ab9166215dc9e",
           "lastSyncedAt": "2026-11-23T10:37:37.593Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "problemName": "0875-koko-eating-bananas",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "folderPath": "0875-koko-eating-bananas/",
+      "readmePath": "0875-koko-eating-bananas/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0875-koko-eating-bananas.java",
+          "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
+          "sha": "94241dc90b24b8c5da0b299a0f48aee805597f9b",
+          "lastSyncedAt": "2026-11-23T10:38:50.370Z"
         }
       ]
     },
