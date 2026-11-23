@@ -5,8 +5,28 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-23T10:31:20.329Z",
+  "updatedAt": "2026-11-23T10:33:03.458Z",
   "problems": [
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0232-implement-queue-using-stacks.java",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.java",
+          "sha": "4f2c81db65bd083dd27db920e7d8501423e9c8e0",
+          "lastSyncedAt": "2026-11-23T10:33:03.458Z"
+        }
+      ]
+    },
     {
       "frontendId": "239",
       "title": "Sliding Window Maximum",
