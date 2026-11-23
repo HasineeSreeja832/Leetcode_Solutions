@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching",
+    "tagId": "61052"
+  },
+  "updatedAt": "2026-11-23T10:28:18.992Z",
+  "problems": [
+    {
+      "frontendId": "686",
+      "title": "Repeated String Match",
+      "slug": "repeated-string-match",
+      "problemName": "0686-repeated-string-match",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+      "folderPath": "0686-repeated-string-match/",
+      "readmePath": "0686-repeated-string-match/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0686-repeated-string-match.java",
+          "path": "0686-repeated-string-match/0686-repeated-string-match.java",
+          "sha": "0bb99a0768e8302da2c52e291d4fa83320ffd749",
+          "lastSyncedAt": "2026-11-23T10:28:18.992Z"
+        }
+      ]
+    }
+  ]
+}
