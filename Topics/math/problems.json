@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T10:42:41.015Z",
+  "updatedAt": "2026-11-23T10:43:20.330Z",
   "problems": [
     {
       "frontendId": "2",
@@ -244,6 +244,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "50a6f079bc9163633341d11092531c1b09b5dc78",
           "lastSyncedAt": "2026-11-23T10:38:37.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1780",
+      "title": "Check if Number is a Sum of Powers of Three",
+      "slug": "check-if-number-is-a-sum-of-powers-of-three",
+      "problemName": "1780-check-if-number-is-a-sum-of-powers-of-three",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/",
+      "folderPath": "1780-check-if-number-is-a-sum-of-powers-of-three/",
+      "readmePath": "1780-check-if-number-is-a-sum-of-powers-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1780-check-if-number-is-a-sum-of-powers-of-three.py",
+          "path": "1780-check-if-number-is-a-sum-of-powers-of-three/1780-check-if-number-is-a-sum-of-powers-of-three.py",
+          "sha": "3ef666b33fe4aaaf37b8d41d6ccd6e770bc2f04e",
+          "lastSyncedAt": "2026-11-23T10:43:20.330Z"
         }
       ]
     },
