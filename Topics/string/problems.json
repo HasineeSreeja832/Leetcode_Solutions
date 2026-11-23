@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:42:09.588Z",
+  "updatedAt": "2026-11-23T10:42:21.098Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "b37388bfaf6388ca7bf5aeea4c79bacdcfe8a828",
           "lastSyncedAt": "2026-11-23T10:42:09.588Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0005-longest-palindromic-substring.py",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
+          "sha": "397393ef5072bbe10f9dd3030d7f5a9b0792b1d0",
+          "lastSyncedAt": "2026-11-23T10:42:21.098Z"
         }
       ]
     },
