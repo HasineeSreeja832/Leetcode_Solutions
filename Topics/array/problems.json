@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:47:54.966Z",
+  "updatedAt": "2026-11-23T13:48:34.869Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1303,7 +1303,7 @@
           "filename": "3392-count-subarrays-of-length-three-with-a-condition.py",
           "path": "3392-count-subarrays-of-length-three-with-a-condition/3392-count-subarrays-of-length-three-with-a-condition.py",
           "sha": "723541f7d65608016c2334bbeb3dddac8292e19b",
-          "lastSyncedAt": "2026-11-23T13:25:08.438Z"
+          "lastSyncedAt": "2026-11-23T13:48:34.869Z"
         }
       ]
     }
