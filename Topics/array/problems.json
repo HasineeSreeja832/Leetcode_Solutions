@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:37:37.593Z",
+  "updatedAt": "2026-11-23T10:37:53.992Z",
   "problems": [
     {
       "frontendId": "1",
@@ -724,6 +724,26 @@
           "path": "1463-cherry-pickup-ii/1463-cherry-pickup-ii.java",
           "sha": "2d4d30f302dc537193d7012e977ac72a26591036",
           "lastSyncedAt": "2026-11-23T10:27:11.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "1539-kth-missing-positive-number/",
+      "readmePath": "1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1539-kth-missing-positive-number.java",
+          "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.java",
+          "sha": "9b7a22a15035f1df4de196ca6361d9592d34220e",
+          "lastSyncedAt": "2026-11-23T10:37:53.992Z"
         }
       ]
     },
