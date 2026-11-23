@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T10:25:25.224Z",
+  "updatedAt": "2026-11-23T10:25:55.338Z",
   "problems": [
     {
       "frontendId": "53",
@@ -44,6 +44,26 @@
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
           "sha": "df4f94d7425f9869960f2dbf8a1329d6f73d0eab",
           "lastSyncedAt": "2026-11-23T10:25:16.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0300-longest-increasing-subsequence.java",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java",
+          "sha": "15f10701423bbf53f3375981184932b1510ab8e0",
+          "lastSyncedAt": "2026-11-23T10:25:55.338Z"
         }
       ]
     }
