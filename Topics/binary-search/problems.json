@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-23T12:02:57.825Z",
+  "updatedAt": "2026-11-23T13:04:04.238Z",
   "problems": [
     {
       "frontendId": "4",
@@ -203,7 +203,7 @@
           "filename": "0300-longest-increasing-subsequence.java",
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java",
           "sha": "15f10701423bbf53f3375981184932b1510ab8e0",
-          "lastSyncedAt": "2026-11-23T11:50:34.564Z"
+          "lastSyncedAt": "2026-11-23T13:04:04.238Z"
         }
       ]
     },
