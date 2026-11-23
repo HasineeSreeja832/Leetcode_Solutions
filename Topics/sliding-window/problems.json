@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-23T13:36:51.217Z",
+  "updatedAt": "2026-11-23T13:44:11.143Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,7 +63,7 @@
           "filename": "1838-frequency-of-the-most-frequent-element.java",
           "path": "1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.java",
           "sha": "c9d8f91c99f6012da8e4bdc642c88da30089b0dd",
-          "lastSyncedAt": "2026-11-23T13:20:38.828Z"
+          "lastSyncedAt": "2026-11-23T13:44:11.143Z"
         }
       ]
     }
