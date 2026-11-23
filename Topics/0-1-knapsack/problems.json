@@ -5,7 +5,7 @@
     "name": "0-1 Knapsack",
     "tagId": "88229"
   },
-  "updatedAt": "2026-11-23T10:26:24.407Z",
+  "updatedAt": "2026-11-23T10:26:40.412Z",
   "problems": [
     {
       "frontendId": "494",
@@ -24,6 +24,26 @@
           "path": "0494-target-sum/0494-target-sum.java",
           "sha": "001d4b3cd5d0a97f1ccb3231ce5a8a6278e69fb2",
           "lastSyncedAt": "2026-11-23T10:26:24.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1049",
+      "title": "Last Stone Weight II",
+      "slug": "last-stone-weight-ii",
+      "problemName": "1049-last-stone-weight-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight-ii/",
+      "folderPath": "1049-last-stone-weight-ii/",
+      "readmePath": "1049-last-stone-weight-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1049-last-stone-weight-ii.java",
+          "path": "1049-last-stone-weight-ii/1049-last-stone-weight-ii.java",
+          "sha": "a6bedbbcf434c42a11fefcd25169060f349a4c81",
+          "lastSyncedAt": "2026-11-23T10:26:40.412Z"
         }
       ]
     }
