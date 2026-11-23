@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T10:38:37.566Z",
+  "updatedAt": "2026-11-23T10:40:23.294Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.java",
           "sha": "84a0c869f585386ee2bc4bba635658a4e0a45ec7",
           "lastSyncedAt": "2026-11-23T10:34:15.408Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "60d8d558664e8da48e4b32d666bbdc0bfd043ee0",
+          "lastSyncedAt": "2026-11-23T10:40:23.294Z"
         }
       ]
     },
