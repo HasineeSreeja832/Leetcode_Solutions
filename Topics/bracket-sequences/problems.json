@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-11-23T13:24:09.688Z",
+  "updatedAt": "2026-11-23T13:35:02.933Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,7 +43,7 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.java",
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.java",
           "sha": "23f158779b0553b0141234cb25038084787e6a68",
-          "lastSyncedAt": "2026-11-23T13:08:39.633Z"
+          "lastSyncedAt": "2026-11-23T13:35:02.933Z"
         }
       ]
     },
