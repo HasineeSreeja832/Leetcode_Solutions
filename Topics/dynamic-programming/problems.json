@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T10:26:07.659Z",
+  "updatedAt": "2026-11-23T10:26:24.407Z",
   "problems": [
     {
       "frontendId": "53",
@@ -64,6 +64,26 @@
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java",
           "sha": "15f10701423bbf53f3375981184932b1510ab8e0",
           "lastSyncedAt": "2026-11-23T10:25:55.338Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "0494-target-sum/",
+      "readmePath": "0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0494-target-sum.java",
+          "path": "0494-target-sum/0494-target-sum.java",
+          "sha": "001d4b3cd5d0a97f1ccb3231ce5a8a6278e69fb2",
+          "lastSyncedAt": "2026-11-23T10:26:24.407Z"
         }
       ]
     },
