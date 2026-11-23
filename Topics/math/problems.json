@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T13:25:14.233Z",
+  "updatedAt": "2026-11-23T13:26:05.296Z",
   "problems": [
     {
       "frontendId": "2",
@@ -263,7 +263,7 @@
           "filename": "1780-check-if-number-is-a-sum-of-powers-of-three.py",
           "path": "1780-check-if-number-is-a-sum-of-powers-of-three/1780-check-if-number-is-a-sum-of-powers-of-three.py",
           "sha": "3ef666b33fe4aaaf37b8d41d6ccd6e770bc2f04e",
-          "lastSyncedAt": "2026-11-23T12:03:49.405Z"
+          "lastSyncedAt": "2026-11-23T13:26:05.296Z"
         }
       ]
     },
