@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T10:38:37.566Z",
+  "updatedAt": "2026-11-23T10:40:42.502Z",
   "problems": [
     {
       "frontendId": "42",
@@ -84,6 +84,26 @@
           "path": "0063-unique-paths-ii/0063-unique-paths-ii.java",
           "sha": "b8c422506440cd3f84e690c804f985092c947580",
           "lastSyncedAt": "2026-11-23T10:27:26.846Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0070-climbing-stairs.java",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.java",
+          "sha": "3bd1aae97ad6c8631f061cc91f524b770f917eac",
+          "lastSyncedAt": "2026-11-23T10:40:42.502Z"
         }
       ]
     },
