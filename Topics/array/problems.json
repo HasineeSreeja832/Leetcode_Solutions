@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:27:11.647Z",
+  "updatedAt": "2026-11-23T10:27:20.409Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "a270f06e827030677eab9c8f6d67eebfbfb9d606",
           "lastSyncedAt": "2026-11-23T10:25:25.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "problemName": "0120-triangle",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+      "folderPath": "0120-triangle/",
+      "readmePath": "0120-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0120-triangle.java",
+          "path": "0120-triangle/0120-triangle.java",
+          "sha": "cc1b7ed84a84a27b0c9478060147b6ff3889b605",
+          "lastSyncedAt": "2026-11-23T10:27:20.409Z"
         }
       ]
     },
