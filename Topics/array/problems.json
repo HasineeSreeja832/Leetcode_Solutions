@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:27:02.275Z",
+  "updatedAt": "2026-11-23T10:27:11.647Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.java",
           "sha": "5298fa309c5f4ac81d27b781e9401ee1db8cbcc7",
           "lastSyncedAt": "2026-11-23T10:27:02.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1463",
+      "title": "Cherry Pickup II",
+      "slug": "cherry-pickup-ii",
+      "problemName": "1463-cherry-pickup-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup-ii/",
+      "folderPath": "1463-cherry-pickup-ii/",
+      "readmePath": "1463-cherry-pickup-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1463-cherry-pickup-ii.java",
+          "path": "1463-cherry-pickup-ii/1463-cherry-pickup-ii.java",
+          "sha": "2d4d30f302dc537193d7012e977ac72a26591036",
+          "lastSyncedAt": "2026-11-23T10:27:11.647Z"
         }
       ]
     }
