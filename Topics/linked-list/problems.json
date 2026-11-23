@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-23T12:01:45.817Z",
+  "updatedAt": "2026-11-23T12:01:52.916Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,7 +63,7 @@
           "filename": "0061-rotate-list.java",
           "path": "0061-rotate-list/0061-rotate-list.java",
           "sha": "3cb51363de0d29f763e780d8cdbb83369415bc0a",
-          "lastSyncedAt": "2026-11-23T10:59:28.255Z"
+          "lastSyncedAt": "2026-11-23T12:01:52.916Z"
         }
       ]
     },
