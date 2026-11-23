@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-23T10:53:40.961Z",
+  "updatedAt": "2026-11-23T10:53:46.245Z",
   "problems": [
     {
       "frontendId": "20",
@@ -163,7 +163,7 @@
           "filename": "0402-remove-k-digits.java",
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "89893498364f7ecfe9dd1068ecda078c92d7196a",
-          "lastSyncedAt": "2026-11-23T10:31:56.780Z"
+          "lastSyncedAt": "2026-11-23T10:53:46.245Z"
         }
       ]
     },
