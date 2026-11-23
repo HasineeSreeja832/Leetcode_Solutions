@@ -5,7 +5,7 @@
     "name": "0-1 Knapsack",
     "tagId": "88229"
   },
-  "updatedAt": "2026-11-23T13:31:32.529Z",
+  "updatedAt": "2026-11-23T13:31:53.136Z",
   "problems": [
     {
       "frontendId": "416",
@@ -63,7 +63,7 @@
           "filename": "1049-last-stone-weight-ii.java",
           "path": "1049-last-stone-weight-ii/1049-last-stone-weight-ii.java",
           "sha": "a6bedbbcf434c42a11fefcd25169060f349a4c81",
-          "lastSyncedAt": "2026-11-23T13:05:03.547Z"
+          "lastSyncedAt": "2026-11-23T13:31:53.136Z"
         }
       ]
     }
