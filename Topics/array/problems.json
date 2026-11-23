@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:41:54.535Z",
+  "updatedAt": "2026-11-23T10:42:35.520Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "dde817a4864ce66cd8c2313275381ead68b5d4d1",
           "lastSyncedAt": "2026-11-23T10:36:22.142Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3392",
+      "title": "Count Subarrays of Length Three With a Condition",
+      "slug": "count-subarrays-of-length-three-with-a-condition",
+      "problemName": "3392-count-subarrays-of-length-three-with-a-condition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/",
+      "folderPath": "3392-count-subarrays-of-length-three-with-a-condition/",
+      "readmePath": "3392-count-subarrays-of-length-three-with-a-condition/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3392-count-subarrays-of-length-three-with-a-condition.py",
+          "path": "3392-count-subarrays-of-length-three-with-a-condition/3392-count-subarrays-of-length-three-with-a-condition.py",
+          "sha": "723541f7d65608016c2334bbeb3dddac8292e19b",
+          "lastSyncedAt": "2026-11-23T10:42:35.520Z"
         }
       ]
     }
