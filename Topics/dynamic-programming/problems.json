@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T10:43:01.413Z",
+  "updatedAt": "2026-11-23T10:43:10.287Z",
   "problems": [
     {
       "frontendId": "5",
@@ -364,6 +364,26 @@
           "path": "0673-number-of-longest-increasing-subsequence/0673-number-of-longest-increasing-subsequence.java",
           "sha": "e87c31871114f9e1481a8393d5783ac09d4f3d67",
           "lastSyncedAt": "2026-11-23T10:26:07.659Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "898",
+      "title": "Bitwise ORs of Subarrays",
+      "slug": "bitwise-ors-of-subarrays",
+      "problemName": "0898-bitwise-ors-of-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-ors-of-subarrays/",
+      "folderPath": "0898-bitwise-ors-of-subarrays/",
+      "readmePath": "0898-bitwise-ors-of-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0898-bitwise-ors-of-subarrays.py",
+          "path": "0898-bitwise-ors-of-subarrays/0898-bitwise-ors-of-subarrays.py",
+          "sha": "a51184a25084d4367c7ca9c5163dc172579806b2",
+          "lastSyncedAt": "2026-11-23T10:43:10.287Z"
         }
       ]
     },
