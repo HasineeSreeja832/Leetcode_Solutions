@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-23T10:36:39.314Z",
+  "updatedAt": "2026-11-23T10:38:00.641Z",
   "problems": [
     {
       "frontendId": "15",
@@ -84,6 +84,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "6fca178b92b58d279be51a7690e8d7d8f622c6dc",
           "lastSyncedAt": "2026-11-23T10:36:03.673Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "problemName": "1838-frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "folderPath": "1838-frequency-of-the-most-frequent-element/",
+      "readmePath": "1838-frequency-of-the-most-frequent-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1838-frequency-of-the-most-frequent-element.java",
+          "path": "1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.java",
+          "sha": "c9d8f91c99f6012da8e4bdc642c88da30089b0dd",
+          "lastSyncedAt": "2026-11-23T10:38:00.641Z"
         }
       ]
     }
