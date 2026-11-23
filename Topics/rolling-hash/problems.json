@@ -5,8 +5,28 @@
     "name": "Rolling Hash",
     "tagId": "56598"
   },
-  "updatedAt": "2026-11-23T10:29:01.012Z",
+  "updatedAt": "2026-11-23T10:29:17.512Z",
   "problems": [
+    {
+      "frontendId": "214",
+      "title": "Shortest Palindrome",
+      "slug": "shortest-palindrome",
+      "problemName": "0214-shortest-palindrome",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+      "folderPath": "0214-shortest-palindrome/",
+      "readmePath": "0214-shortest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0214-shortest-palindrome.java",
+          "path": "0214-shortest-palindrome/0214-shortest-palindrome.java",
+          "sha": "484f012723bb090c05eb37a3946eeca17ea7a673",
+          "lastSyncedAt": "2026-11-23T10:29:17.512Z"
+        }
+      ]
+    },
     {
       "frontendId": "1392",
       "title": "Longest Happy Prefix",
