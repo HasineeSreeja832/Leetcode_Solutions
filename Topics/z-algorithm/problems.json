@@ -5,7 +5,7 @@
     "name": "Z Algorithm",
     "tagId": "86036"
   },
-  "updatedAt": "2026-11-23T13:07:30.036Z",
+  "updatedAt": "2026-11-23T13:07:50.085Z",
   "problems": [
     {
       "frontendId": "28",
@@ -83,7 +83,7 @@
           "filename": "1392-longest-happy-prefix.java",
           "path": "1392-longest-happy-prefix/1392-longest-happy-prefix.java",
           "sha": "1a05565bebaf79744cebc1e27c36d9fc875f2f71",
-          "lastSyncedAt": "2026-11-23T11:52:53.805Z"
+          "lastSyncedAt": "2026-11-23T13:07:50.085Z"
         }
       ]
     }
