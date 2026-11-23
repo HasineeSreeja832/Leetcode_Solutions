@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-23T13:47:12.184Z",
+  "updatedAt": "2026-11-23T13:48:19.290Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,7 +23,7 @@
           "filename": "0005-longest-palindromic-substring.py",
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "397393ef5072bbe10f9dd3030d7f5a9b0792b1d0",
-          "lastSyncedAt": "2026-11-23T13:24:50.923Z"
+          "lastSyncedAt": "2026-11-23T13:48:19.290Z"
         }
       ]
     },
