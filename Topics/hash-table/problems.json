@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-23T13:18:04.180Z",
+  "updatedAt": "2026-11-23T13:23:57.958Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,7 +63,7 @@
           "filename": "0012-integer-to-roman.java",
           "path": "0012-integer-to-roman/0012-integer-to-roman.java",
           "sha": "91bb2215dc599b808dc7bdac81eeed5bc4377529",
-          "lastSyncedAt": "2026-11-23T12:02:41.048Z"
+          "lastSyncedAt": "2026-11-23T13:23:57.958Z"
         }
       ]
     },
