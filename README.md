@@ -1,5 +1,5 @@
-# leetcode-test
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-Neo](https://github.com/legojeon/LeetHub-Neo)
+# leetcode_solutions
+My accepted LeetCode solutions, organized by problem
 
 <!---LeetHub Summary Start-->
 ## LeetHub Summary
@@ -8,28 +8,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ---: | ---: | ---: | ---: |
 | 107 | 38 | 58 | 11 |
 
-## Activity
-
-| Current Streak | Best Streak | Active Days |
-| ---: | ---: | ---: |
-| 1 days | 7 days | 39 |
-
-| Date | Problems |
-| --- | ---: |
-| 2026-07-12 | 4 |
-| 2026-07-13 | 3 |
-| 2026-07-14 | 4 |
-| 2026-07-15 | 9 |
-| 2026-07-17 | 7 |
-| 2026-07-19 | 2 |
-| 2026-07-25 | 1 |
-| 2026-08-29 | 4 |
-| 2026-09-17 | 1 |
-| 2026-10-01 | 34 |
-| 2026-10-08 | 1 |
-| 2026-11-06 | 2 |
-| 2026-11-09 | 1 |
-| 2026-11-23 | 1 |
 
 ## Top Tags
 
