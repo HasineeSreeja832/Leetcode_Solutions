@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:28:40.411Z",
+  "updatedAt": "2026-11-23T10:29:01.012Z",
   "problems": [
     {
       "frontendId": "28",
@@ -44,6 +44,26 @@
           "path": "0686-repeated-string-match/0686-repeated-string-match.java",
           "sha": "0bb99a0768e8302da2c52e291d4fa83320ffd749",
           "lastSyncedAt": "2026-11-23T10:28:18.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1392",
+      "title": "Longest Happy Prefix",
+      "slug": "longest-happy-prefix",
+      "problemName": "1392-longest-happy-prefix",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-happy-prefix/",
+      "folderPath": "1392-longest-happy-prefix/",
+      "readmePath": "1392-longest-happy-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1392-longest-happy-prefix.java",
+          "path": "1392-longest-happy-prefix/1392-longest-happy-prefix.java",
+          "sha": "1a05565bebaf79744cebc1e27c36d9fc875f2f71",
+          "lastSyncedAt": "2026-11-23T10:29:01.012Z"
         }
       ]
     }
