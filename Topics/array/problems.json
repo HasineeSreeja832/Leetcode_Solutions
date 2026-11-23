@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:26:56.090Z",
+  "updatedAt": "2026-11-23T13:29:55.143Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "0118-pascals-triangle/0118-pascals-triangle.py",
           "sha": "256c4e8253bd28c25e683ed1fc6e3e8ec4a58c1a",
           "lastSyncedAt": "2026-11-23T13:25:39.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "problemName": "0119-pascals-triangle-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "folderPath": "0119-pascals-triangle-ii/",
+      "readmePath": "0119-pascals-triangle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0119-pascals-triangle-ii.java",
+          "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.java",
+          "sha": "e439771c5087269577f9489dc4e68d38f5ce65cb",
+          "lastSyncedAt": "2026-11-23T13:29:55.143Z"
         }
       ]
     },
