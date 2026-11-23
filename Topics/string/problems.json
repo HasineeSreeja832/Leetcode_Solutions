@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:35:21.915Z",
+  "updatedAt": "2026-11-23T10:36:03.673Z",
   "problems": [
     {
       "frontendId": "13",
@@ -144,6 +144,26 @@
           "path": "0214-shortest-palindrome/0214-shortest-palindrome.java",
           "sha": "484f012723bb090c05eb37a3946eeca17ea7a673",
           "lastSyncedAt": "2026-11-23T10:29:17.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "6fca178b92b58d279be51a7690e8d7d8f622c6dc",
+          "lastSyncedAt": "2026-11-23T10:36:03.673Z"
         }
       ]
     },
