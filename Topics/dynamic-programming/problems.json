@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T13:24:50.923Z",
+  "updatedAt": "2026-11-23T13:25:39.927Z",
   "problems": [
     {
       "frontendId": "5",
@@ -163,7 +163,7 @@
           "filename": "0118-pascals-triangle.py",
           "path": "0118-pascals-triangle/0118-pascals-triangle.py",
           "sha": "256c4e8253bd28c25e683ed1fc6e3e8ec4a58c1a",
-          "lastSyncedAt": "2026-11-23T12:03:37.971Z"
+          "lastSyncedAt": "2026-11-23T13:25:39.927Z"
         }
       ]
     },
