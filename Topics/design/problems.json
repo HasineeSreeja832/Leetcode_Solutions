@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-23T13:37:14.344Z",
+  "updatedAt": "2026-11-23T13:38:37.138Z",
   "problems": [
     {
       "frontendId": "146",
@@ -83,7 +83,7 @@
           "filename": "0232-implement-queue-using-stacks.java",
           "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.java",
           "sha": "4f2c81db65bd083dd27db920e7d8501423e9c8e0",
-          "lastSyncedAt": "2026-11-23T13:12:43.506Z"
+          "lastSyncedAt": "2026-11-23T13:38:37.138Z"
         }
       ]
     },
