@@ -5,7 +5,7 @@
     "name": "Memoization",
     "tagId": "33"
   },
-  "updatedAt": "2026-11-23T13:44:55.216Z",
+  "updatedAt": "2026-11-23T13:46:54.694Z",
   "problems": [
     {
       "frontendId": "70",
@@ -23,7 +23,7 @@
           "filename": "0070-climbing-stairs.java",
           "path": "0070-climbing-stairs/0070-climbing-stairs.java",
           "sha": "3bd1aae97ad6c8631f061cc91f524b770f917eac",
-          "lastSyncedAt": "2026-11-23T13:23:21.326Z"
+          "lastSyncedAt": "2026-11-23T13:46:54.694Z"
         }
       ]
     },
