@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T11:21:15.649Z",
+  "updatedAt": "2026-11-23T11:21:23.045Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,7 +503,7 @@
           "filename": "0152-maximum-product-subarray.java",
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
           "sha": "df4f94d7425f9869960f2dbf8a1329d6f73d0eab",
-          "lastSyncedAt": "2026-11-23T10:49:11.231Z"
+          "lastSyncedAt": "2026-11-23T11:21:23.045Z"
         }
       ]
     },
