@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T10:31:02.741Z",
+  "updatedAt": "2026-11-23T10:32:19.922Z",
   "problems": [
     {
       "frontendId": "42",
@@ -244,6 +244,26 @@
           "path": "0673-number-of-longest-increasing-subsequence/0673-number-of-longest-increasing-subsequence.java",
           "sha": "e87c31871114f9e1481a8393d5783ac09d4f3d67",
           "lastSyncedAt": "2026-11-23T10:26:07.659Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "problemName": "0907-sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folderPath": "0907-sum-of-subarray-minimums/",
+      "readmePath": "0907-sum-of-subarray-minimums/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0907-sum-of-subarray-minimums.java",
+          "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.java",
+          "sha": "d427270f651c8cdb0fa9c93d1dcc2531eeabb647",
+          "lastSyncedAt": "2026-11-23T10:32:19.922Z"
         }
       ]
     },
