@@ -5,7 +5,7 @@
     "name": "Doubly-Linked List",
     "tagId": "61058"
   },
-  "updatedAt": "2026-11-23T11:32:17.115Z",
+  "updatedAt": "2026-11-23T11:53:46.089Z",
   "problems": [
     {
       "frontendId": "146",
@@ -43,7 +43,7 @@
           "filename": "0460-lfu-cache.java",
           "path": "0460-lfu-cache/0460-lfu-cache.java",
           "sha": "c3c8975850306eee3e1e4bfbc7cf062dcba9ae1f",
-          "lastSyncedAt": "2026-11-23T11:31:56.116Z"
+          "lastSyncedAt": "2026-11-23T11:53:46.089Z"
         }
       ]
     }
