@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-23T13:03:39.094Z",
+  "updatedAt": "2026-11-23T13:20:05.671Z",
   "problems": [
     {
       "frontendId": "238",
@@ -43,7 +43,7 @@
           "filename": "0410-split-array-largest-sum.java",
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "75874bae38c101e6e8fa2fc9f69ab9166215dc9e",
-          "lastSyncedAt": "2026-11-23T11:59:32.555Z"
+          "lastSyncedAt": "2026-11-23T13:20:05.671Z"
         }
       ]
     },
