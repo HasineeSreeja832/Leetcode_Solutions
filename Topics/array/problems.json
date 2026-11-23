@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:25:25.224Z",
+  "updatedAt": "2026-11-23T10:25:34.813Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
           "sha": "df4f94d7425f9869960f2dbf8a1329d6f73d0eab",
           "lastSyncedAt": "2026-11-23T10:25:16.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0238-product-of-array-except-self.java",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.java",
+          "sha": "35f92c990fce36f0fa496a54b49b941e9fb435e5",
+          "lastSyncedAt": "2026-11-23T10:25:34.813Z"
         }
       ]
     }
