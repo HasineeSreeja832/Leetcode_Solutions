@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T13:20:05.671Z",
+  "updatedAt": "2026-11-23T13:21:21.451Z",
   "problems": [
     {
       "frontendId": "5",
@@ -343,7 +343,7 @@
           "filename": "0509-fibonacci-number.java",
           "path": "0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "50a6f079bc9163633341d11092531c1b09b5dc78",
-          "lastSyncedAt": "2026-11-23T12:00:22.503Z"
+          "lastSyncedAt": "2026-11-23T13:21:21.451Z"
         }
       ]
     },
