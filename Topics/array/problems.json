@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T11:50:13.741Z",
+  "updatedAt": "2026-11-23T11:50:21.570Z",
   "problems": [
     {
       "frontendId": "1",
@@ -643,7 +643,7 @@
           "filename": "0238-product-of-array-except-self.java",
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.java",
           "sha": "35f92c990fce36f0fa496a54b49b941e9fb435e5",
-          "lastSyncedAt": "2026-11-23T11:21:39.073Z"
+          "lastSyncedAt": "2026-11-23T11:50:21.570Z"
         }
       ]
     },
