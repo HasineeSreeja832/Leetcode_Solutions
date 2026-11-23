@@ -5,7 +5,7 @@
     "name": "Hash Function",
     "tagId": "61065"
   },
-  "updatedAt": "2026-11-23T13:34:18.758Z",
+  "updatedAt": "2026-11-23T13:34:36.934Z",
   "problems": [
     {
       "frontendId": "214",
@@ -23,7 +23,7 @@
           "filename": "0214-shortest-palindrome.java",
           "path": "0214-shortest-palindrome/0214-shortest-palindrome.java",
           "sha": "484f012723bb090c05eb37a3946eeca17ea7a673",
-          "lastSyncedAt": "2026-11-23T13:08:11.947Z"
+          "lastSyncedAt": "2026-11-23T13:34:36.934Z"
         }
       ]
     },
