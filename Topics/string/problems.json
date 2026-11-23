@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:34:24.419Z",
+  "updatedAt": "2026-11-23T10:34:33.999Z",
   "problems": [
     {
       "frontendId": "13",
@@ -124,6 +124,26 @@
           "path": "0686-repeated-string-match/0686-repeated-string-match.java",
           "sha": "0bb99a0768e8302da2c52e291d4fa83320ffd749",
           "lastSyncedAt": "2026-11-23T10:28:18.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "problemName": "0796-rotate-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+      "folderPath": "0796-rotate-string/",
+      "readmePath": "0796-rotate-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0796-rotate-string.java",
+          "path": "0796-rotate-string/0796-rotate-string.java",
+          "sha": "19d13a22e23b9b2dfeaf97dfebc723cc7e4413b4",
+          "lastSyncedAt": "2026-11-23T10:34:33.999Z"
         }
       ]
     },
