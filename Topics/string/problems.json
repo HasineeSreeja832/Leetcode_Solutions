@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:29:40.291Z",
+  "updatedAt": "2026-11-23T10:31:56.780Z",
   "problems": [
     {
       "frontendId": "28",
@@ -64,6 +64,26 @@
           "path": "0214-shortest-palindrome/0214-shortest-palindrome.java",
           "sha": "484f012723bb090c05eb37a3946eeca17ea7a673",
           "lastSyncedAt": "2026-11-23T10:29:17.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0402-remove-k-digits.java",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.java",
+          "sha": "89893498364f7ecfe9dd1068ecda078c92d7196a",
+          "lastSyncedAt": "2026-11-23T10:31:56.780Z"
         }
       ]
     },
