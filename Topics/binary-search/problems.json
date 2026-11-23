@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-23T11:59:49.606Z",
+  "updatedAt": "2026-11-23T12:00:03.657Z",
   "problems": [
     {
       "frontendId": "4",
@@ -303,7 +303,7 @@
           "filename": "1011-capacity-to-ship-packages-within-d-days.java",
           "path": "1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.java",
           "sha": "1d303b85daae87ce93d085d9ae2ba8e20b91a26d",
-          "lastSyncedAt": "2026-11-23T10:58:06.462Z"
+          "lastSyncedAt": "2026-11-23T12:00:03.657Z"
         }
       ]
     },
