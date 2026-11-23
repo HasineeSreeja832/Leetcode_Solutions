@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-11-23T10:32:29.758Z",
+  "problems": [
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0735-asteroid-collision.java",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.java",
+          "sha": "47ad45df0d87041dc13ea2cabf6729b66be14128",
+          "lastSyncedAt": "2026-11-23T10:32:29.758Z"
+        }
+      ]
+    }
+  ]
+}
