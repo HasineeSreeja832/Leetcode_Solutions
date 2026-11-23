@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:53:25.121Z",
+  "updatedAt": "2026-11-23T10:53:54.531Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1223,7 +1223,7 @@
           "filename": "2104-sum-of-subarray-ranges.java",
           "path": "2104-sum-of-subarray-ranges/2104-sum-of-subarray-ranges.java",
           "sha": "697003ef814a09acd07984f73c88ebccc5d949d0",
-          "lastSyncedAt": "2026-11-23T10:32:09.268Z"
+          "lastSyncedAt": "2026-11-23T10:53:54.531Z"
         }
       ]
     },
