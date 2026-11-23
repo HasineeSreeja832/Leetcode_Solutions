@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T11:57:18.424Z",
+  "updatedAt": "2026-11-23T11:57:26.026Z",
   "problems": [
     {
       "frontendId": "3",
@@ -323,7 +323,7 @@
           "filename": "0796-rotate-string.java",
           "path": "0796-rotate-string/0796-rotate-string.java",
           "sha": "19d13a22e23b9b2dfeaf97dfebc723cc7e4413b4",
-          "lastSyncedAt": "2026-11-23T10:55:36.605Z"
+          "lastSyncedAt": "2026-11-23T11:57:26.026Z"
         }
       ]
     },
