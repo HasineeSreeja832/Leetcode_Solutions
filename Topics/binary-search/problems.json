@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-23T10:35:50.817Z",
+  "updatedAt": "2026-11-23T10:37:37.593Z",
   "problems": [
     {
       "frontendId": "74",
@@ -64,6 +64,26 @@
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java",
           "sha": "15f10701423bbf53f3375981184932b1510ab8e0",
           "lastSyncedAt": "2026-11-23T10:25:55.338Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "0410-split-array-largest-sum/",
+      "readmePath": "0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0410-split-array-largest-sum.java",
+          "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
+          "sha": "75874bae38c101e6e8fa2fc9f69ab9166215dc9e",
+          "lastSyncedAt": "2026-11-23T10:37:37.593Z"
         }
       ]
     },
