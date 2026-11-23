@@ -5,7 +5,7 @@
     "name": "Range Minimum/Maximum Query",
     "tagId": "122086"
   },
-  "updatedAt": "2026-11-23T10:53:06.772Z",
+  "updatedAt": "2026-11-23T10:53:25.121Z",
   "problems": [
     {
       "frontendId": "84",
@@ -43,7 +43,7 @@
           "filename": "0239-sliding-window-maximum.java",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "58ff2770dca5274c947ae21a611b78c40c21c210",
-          "lastSyncedAt": "2026-11-23T10:31:20.329Z"
+          "lastSyncedAt": "2026-11-23T10:53:25.121Z"
         }
       ]
     }
