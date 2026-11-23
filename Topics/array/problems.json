@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:18:21.960Z",
+  "updatedAt": "2026-11-23T13:18:32.929Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1243,7 +1243,7 @@
           "filename": "2149-rearrange-array-elements-by-sign.java",
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "dde817a4864ce66cd8c2313275381ead68b5d4d1",
-          "lastSyncedAt": "2026-11-23T11:58:40.286Z"
+          "lastSyncedAt": "2026-11-23T13:18:32.929Z"
         }
       ]
     },
