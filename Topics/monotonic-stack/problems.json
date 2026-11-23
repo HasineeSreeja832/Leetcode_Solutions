@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-23T10:32:09.268Z",
+  "updatedAt": "2026-11-23T10:32:19.922Z",
   "problems": [
     {
       "frontendId": "42",
@@ -104,6 +104,26 @@
           "path": "0901-online-stock-span/0901-online-stock-span.java",
           "sha": "63c4aad5637232255e8b2700fccc1753057b90d5",
           "lastSyncedAt": "2026-11-23T10:30:22.666Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "problemName": "0907-sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folderPath": "0907-sum-of-subarray-minimums/",
+      "readmePath": "0907-sum-of-subarray-minimums/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0907-sum-of-subarray-minimums.java",
+          "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.java",
+          "sha": "d427270f651c8cdb0fa9c93d1dcc2531eeabb647",
+          "lastSyncedAt": "2026-11-23T10:32:19.922Z"
         }
       ]
     },
