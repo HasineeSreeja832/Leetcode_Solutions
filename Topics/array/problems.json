@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:38:15.478Z",
+  "updatedAt": "2026-11-23T10:38:24.325Z",
   "problems": [
     {
       "frontendId": "1",
@@ -724,6 +724,26 @@
           "path": "1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.java",
           "sha": "5298fa309c5f4ac81d27b781e9401ee1db8cbcc7",
           "lastSyncedAt": "2026-11-23T10:27:02.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "problemName": "1283-find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+      "folderPath": "1283-find-the-smallest-divisor-given-a-threshold/",
+      "readmePath": "1283-find-the-smallest-divisor-given-a-threshold/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1283-find-the-smallest-divisor-given-a-threshold.java",
+          "path": "1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.java",
+          "sha": "7eea8c46a8307533deb5942f824d5133ada01d08",
+          "lastSyncedAt": "2026-11-23T10:38:24.325Z"
         }
       ]
     },
