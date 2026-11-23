@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-23T10:52:53.394Z",
+  "updatedAt": "2026-11-23T10:53:06.772Z",
   "problems": [
     {
       "frontendId": "42",
@@ -43,7 +43,7 @@
           "filename": "0084-largest-rectangle-in-histogram.java",
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.java",
           "sha": "a473854aac53c169a2b015665ec8c69cf821ae3a",
-          "lastSyncedAt": "2026-11-23T10:30:51.675Z"
+          "lastSyncedAt": "2026-11-23T10:53:06.772Z"
         }
       ]
     },
