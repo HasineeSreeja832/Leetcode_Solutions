@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-23T10:28:40.411Z",
+  "updatedAt": "2026-11-23T10:31:02.741Z",
   "problems": [
     {
       "frontendId": "28",
@@ -24,6 +24,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "13d14c8aa8b67c6a05796e5c9166cf9541a7b9b9",
           "lastSyncedAt": "2026-11-23T10:28:40.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0042-trapping-rain-water.java",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
+          "sha": "0206e55605befae95be2a839ff80513c4b6c4edd",
+          "lastSyncedAt": "2026-11-23T10:31:02.741Z"
         }
       ]
     }
