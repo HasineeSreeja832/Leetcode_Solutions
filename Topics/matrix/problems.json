@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-23T10:30:38.383Z",
+  "updatedAt": "2026-11-23T10:35:31.510Z",
   "problems": [
     {
       "frontendId": "63",
@@ -84,6 +84,26 @@
           "path": "1463-cherry-pickup-ii/1463-cherry-pickup-ii.java",
           "sha": "2d4d30f302dc537193d7012e977ac72a26591036",
           "lastSyncedAt": "2026-11-23T10:27:11.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "problemName": "1901-find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "folderPath": "1901-find-a-peak-element-ii/",
+      "readmePath": "1901-find-a-peak-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1901-find-a-peak-element-ii.java",
+          "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.java",
+          "sha": "b16e0ef5450bd100f73f09e5b96a10335edf3ad6",
+          "lastSyncedAt": "2026-11-23T10:35:31.510Z"
         }
       ]
     }
