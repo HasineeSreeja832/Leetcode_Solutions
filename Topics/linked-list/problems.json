@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-23T13:13:15.161Z",
+  "updatedAt": "2026-11-23T13:13:36.770Z",
   "problems": [
     {
       "frontendId": "2",
@@ -103,7 +103,7 @@
           "filename": "0141-linked-list-cycle.java",
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
           "sha": "d7be8e9583b0ecdfb48b28b749dc932de9b28c00",
-          "lastSyncedAt": "2026-11-23T11:56:40.913Z"
+          "lastSyncedAt": "2026-11-23T13:13:36.770Z"
         }
       ]
     },
