@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "doubly-linked-list",
+    "name": "Doubly-Linked List",
+    "tagId": "61058"
+  },
+  "updatedAt": "2026-11-23T10:29:54.435Z",
+  "problems": [
+    {
+      "frontendId": "460",
+      "title": "LFU Cache",
+      "slug": "lfu-cache",
+      "problemName": "0460-lfu-cache",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lfu-cache/",
+      "folderPath": "0460-lfu-cache/",
+      "readmePath": "0460-lfu-cache/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0460-lfu-cache.java",
+          "path": "0460-lfu-cache/0460-lfu-cache.java",
+          "sha": "c3c8975850306eee3e1e4bfbc7cf062dcba9ae1f",
+          "lastSyncedAt": "2026-11-23T10:29:54.435Z"
+        }
+      ]
+    }
+  ]
+}
