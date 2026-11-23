@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-23T10:38:50.370Z",
+  "updatedAt": "2026-11-23T10:38:59.359Z",
   "problems": [
     {
       "frontendId": "74",
@@ -24,6 +24,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "ec74d82f49a3f5da51f7a77d4e5548c8df17ee87",
           "lastSyncedAt": "2026-11-23T10:35:50.817Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "d9778b16dabec7ed6720e7d05d92bb3bc8918d67",
+          "lastSyncedAt": "2026-11-23T10:38:59.359Z"
         }
       ]
     },
