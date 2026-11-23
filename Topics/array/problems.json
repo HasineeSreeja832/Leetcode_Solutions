@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:38:50.370Z",
+  "updatedAt": "2026-11-23T10:38:59.359Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
           "sha": "df4f94d7425f9869960f2dbf8a1329d6f73d0eab",
           "lastSyncedAt": "2026-11-23T10:25:16.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "d9778b16dabec7ed6720e7d05d92bb3bc8918d67",
+          "lastSyncedAt": "2026-11-23T10:38:59.359Z"
         }
       ]
     },
