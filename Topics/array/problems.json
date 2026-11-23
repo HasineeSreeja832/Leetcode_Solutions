@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:49:00.269Z",
+  "updatedAt": "2026-11-23T13:49:10.566Z",
   "problems": [
     {
       "frontendId": "1",
@@ -983,7 +983,7 @@
           "filename": "0898-bitwise-ors-of-subarrays.py",
           "path": "0898-bitwise-ors-of-subarrays/0898-bitwise-ors-of-subarrays.py",
           "sha": "a51184a25084d4367c7ca9c5163dc172579806b2",
-          "lastSyncedAt": "2026-11-23T13:25:52.237Z"
+          "lastSyncedAt": "2026-11-23T13:49:10.566Z"
         }
       ]
     },
