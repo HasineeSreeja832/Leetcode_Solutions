@@ -5,7 +5,7 @@
     "name": "Hash Function",
     "tagId": "61065"
   },
-  "updatedAt": "2026-11-23T10:52:00.610Z",
+  "updatedAt": "2026-11-23T11:29:13.044Z",
   "problems": [
     {
       "frontendId": "214",
@@ -43,7 +43,7 @@
           "filename": "1392-longest-happy-prefix.java",
           "path": "1392-longest-happy-prefix/1392-longest-happy-prefix.java",
           "sha": "1a05565bebaf79744cebc1e27c36d9fc875f2f71",
-          "lastSyncedAt": "2026-11-23T10:51:49.700Z"
+          "lastSyncedAt": "2026-11-23T11:29:13.044Z"
         }
       ]
     }
