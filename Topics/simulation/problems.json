@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-23T10:32:29.758Z",
+  "updatedAt": "2026-11-23T10:36:22.142Z",
   "problems": [
     {
       "frontendId": "735",
@@ -24,6 +24,26 @@
           "path": "0735-asteroid-collision/0735-asteroid-collision.java",
           "sha": "47ad45df0d87041dc13ea2cabf6729b66be14128",
           "lastSyncedAt": "2026-11-23T10:32:29.758Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2149-rearrange-array-elements-by-sign.java",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
+          "sha": "dde817a4864ce66cd8c2313275381ead68b5d4d1",
+          "lastSyncedAt": "2026-11-23T10:36:22.142Z"
         }
       ]
     }
