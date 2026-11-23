@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:41:25.532Z",
+  "updatedAt": "2026-11-23T10:41:36.082Z",
   "problems": [
     {
       "frontendId": "12",
@@ -64,6 +64,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "74e5196b268c2b6e22c36d80f070805454b4acc5",
           "lastSyncedAt": "2026-11-23T10:34:50.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0020-valid-parentheses.py",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.py",
+          "sha": "75e14097e7e70611f0dc28aedb0f805ba432f74a",
+          "lastSyncedAt": "2026-11-23T10:41:36.082Z"
         }
       ]
     },
