@@ -5,7 +5,7 @@
     "name": "Doubly-Linked List",
     "tagId": "61058"
   },
-  "updatedAt": "2026-11-23T13:35:17.274Z",
+  "updatedAt": "2026-11-23T13:35:35.100Z",
   "problems": [
     {
       "frontendId": "146",
@@ -23,7 +23,7 @@
           "filename": "0146-lru-cache.java",
           "path": "0146-lru-cache/0146-lru-cache.java",
           "sha": "0309e6d175f867a7c7d7f91ba48c7607272d091a",
-          "lastSyncedAt": "2026-11-23T13:09:17.075Z"
+          "lastSyncedAt": "2026-11-23T13:35:35.100Z"
         }
       ]
     },
