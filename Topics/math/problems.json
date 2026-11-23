@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T13:02:25.546Z",
+  "updatedAt": "2026-11-23T13:06:14.304Z",
   "problems": [
     {
       "frontendId": "2",
@@ -163,7 +163,7 @@
           "filename": "0062-unique-paths.java",
           "path": "0062-unique-paths/0062-unique-paths.java",
           "sha": "a6c7cf0efffec38e0047ee77bb5794448c5ca90b",
-          "lastSyncedAt": "2026-11-23T11:51:55.963Z"
+          "lastSyncedAt": "2026-11-23T13:06:14.304Z"
         }
       ]
     },
