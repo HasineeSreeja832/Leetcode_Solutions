@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-23T10:32:19.922Z",
+  "updatedAt": "2026-11-23T10:32:39.906Z",
   "problems": [
     {
       "frontendId": "42",
@@ -84,6 +84,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "89893498364f7ecfe9dd1068ecda078c92d7196a",
           "lastSyncedAt": "2026-11-23T10:31:56.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "0503-next-greater-element-ii/",
+      "readmePath": "0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0503-next-greater-element-ii.java",
+          "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.java",
+          "sha": "73f7a938603e2ddf965980dd1b46f2400e9bd445",
+          "lastSyncedAt": "2026-11-23T10:32:39.906Z"
         }
       ]
     },
